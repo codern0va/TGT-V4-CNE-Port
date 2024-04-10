@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="shadow mad.png" width="4293" height="3995">
+  <SubTexture name="shadow mad0033.png" x="0" y="0"  width="750" height="1053" frameX="-149" frameY="-74" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0035.png" x="0" y="1053"  width="517" height="1045" frameX="-154" frameY="-82" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0037.png" x="0" y="2098"  width="546" height="1028" frameX="-154" frameY="-99" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0027.png" x="0" y="3126"  width="599" height="869" frameX="-79" frameY="-258" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0019.png" x="517" y="1053"  width="425" height="968" frameX="-144" frameY="-137" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0031.png" x="750" y="0"  width="885" height="951" frameX="-165" frameY="-176" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0021.png" x="546" y="2021"  width="440" height="950" frameX="-142" frameY="-154" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0023.png" x="942" y="2971"  width="825" height="937" frameX="-18" frameY="-207" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0025.png" x="942" y="951"  width="817" height="937" frameX="-30" frameY="-207" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0009.png" x="1635" y="0"  width="485" height="924" frameX="-147" frameY="-179" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0017.png" x="986" y="1888"  width="616" height="922" frameX="-145" frameY="-181" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0007.png" x="1602" y="1888"  width="493" height="921" frameX="-147" frameY="-182" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0015.png" x="1759" y="924"  width="665" height="917" frameX="-144" frameY="-186" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0005.png" x="2120" y="0"  width="495" height="916" frameX="-147" frameY="-187" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0003.png" x="1767" y="2809"  width="508" height="899" frameX="-143" frameY="-203" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0001.png" x="2095" y="1841"  width="532" height="893" frameX="-135" frameY="-208" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0041.png" x="2424" y="916"  width="827" height="886" frameX="-122" frameY="-217" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0029.png" x="2627" y="0"  width="626" height="884" frameX="-83" frameY="-242" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0039.png" x="3253" y="0"  width="826" height="879" frameX="-106" frameY="-224" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0045.png" x="2275" y="2734"  width="831" height="868" frameX="-125" frameY="-235" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0047.png" x="2627" y="1802"  width="833" height="867" frameX="-125" frameY="-237" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0048.png" x="3251" y="884"  width="833" height="867" frameX="-125" frameY="-237" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0051.png" x="3460" y="1751"  width="833" height="867" frameX="-125" frameY="-237" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0043.png" x="3460" y="2618"  width="833" height="866" frameX="-125" frameY="-237" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0002.png" x="2095" y="1841"  width="532" height="893" frameX="-135" frameY="-208" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0004.png" x="1767" y="2809"  width="508" height="899" frameX="-143" frameY="-203" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0006.png" x="2120" y="0"  width="495" height="916" frameX="-147" frameY="-187" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0008.png" x="1602" y="1888"  width="493" height="921" frameX="-147" frameY="-182" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0010.png" x="1635" y="0"  width="485" height="924" frameX="-147" frameY="-179" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0011.png" x="1635" y="0"  width="485" height="924" frameX="-147" frameY="-179" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0012.png" x="1635" y="0"  width="485" height="924" frameX="-147" frameY="-179" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0013.png" x="1635" y="0"  width="485" height="924" frameX="-147" frameY="-179" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0014.png" x="1635" y="0"  width="485" height="924" frameX="-147" frameY="-179" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0016.png" x="1759" y="924"  width="665" height="917" frameX="-144" frameY="-186" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0018.png" x="986" y="1888"  width="616" height="922" frameX="-145" frameY="-181" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0020.png" x="517" y="1053"  width="425" height="968" frameX="-144" frameY="-137" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0022.png" x="546" y="2021"  width="440" height="950" frameX="-142" frameY="-154" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0024.png" x="942" y="2971"  width="825" height="937" frameX="-18" frameY="-207" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0026.png" x="942" y="951"  width="817" height="937" frameX="-30" frameY="-207" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0028.png" x="0" y="3126"  width="599" height="869" frameX="-79" frameY="-258" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0030.png" x="2627" y="0"  width="626" height="884" frameX="-83" frameY="-242" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0032.png" x="750" y="0"  width="885" height="951" frameX="-165" frameY="-176" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0034.png" x="0" y="0"  width="750" height="1053" frameX="-149" frameY="-74" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0036.png" x="0" y="1053"  width="517" height="1045" frameX="-154" frameY="-82" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0038.png" x="0" y="2098"  width="546" height="1028" frameX="-154" frameY="-99" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0040.png" x="3253" y="0"  width="826" height="879" frameX="-106" frameY="-224" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0042.png" x="2424" y="916"  width="827" height="886" frameX="-122" frameY="-217" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0044.png" x="3460" y="2618"  width="833" height="866" frameX="-125" frameY="-237" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0046.png" x="2275" y="2734"  width="831" height="868" frameX="-125" frameY="-235" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0049.png" x="3251" y="884"  width="833" height="867" frameX="-125" frameY="-237" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0050.png" x="3251" y="884"  width="833" height="867" frameX="-125" frameY="-237" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0052.png" x="3460" y="1751"  width="833" height="867" frameX="-125" frameY="-237" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0053.png" x="3460" y="1751"  width="833" height="867" frameX="-125" frameY="-237" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0054.png" x="3460" y="1751"  width="833" height="867" frameX="-125" frameY="-237" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0055.png" x="3460" y="1751"  width="833" height="867" frameX="-125" frameY="-237" frameWidth="1092" frameHeight="1167"/>
+  <SubTexture name="shadow mad0056.png" x="3460" y="1751"  width="833" height="867" frameX="-125" frameY="-237" frameWidth="1092" frameHeight="1167"/>
+</TextureAtlas>

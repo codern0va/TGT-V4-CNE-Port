@@ -1,0 +1,1 @@
+Here you'll put the characters on storymode .xml files.

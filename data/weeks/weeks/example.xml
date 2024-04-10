@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-week>
+<week name="Example Week" chars="dad,bf,gf" sprite="week1">
+	<song>Example Song</song>
+</week>

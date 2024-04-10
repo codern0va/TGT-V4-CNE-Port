@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-254" icon="chapter1/tails" y="-645" isGF="false" icons="chapter1/tails" scale="1.1" camy="20" color="#FFC314" isPlayer="false" holdTime="6.1" sprite="chapter1/tails">
+	<anim x="0" loop="false" y="0" fps="24" anim="tails meme idle" name="idle"/>
+	<anim x="1.81818181818182" loop="false" y="0.909090909090909" fps="24" anim="tails left" name="singLEFT"/>
+	<anim x="0.909090909090909" loop="false" y="0" fps="24" anim="tails right" name="singRIGHT"/>
+	<anim x="12.7272727272727" loop="false" y="0.909090909090909" fps="24" anim="tails up" name="singUP"/>
+	<anim x="4.54545454545454" loop="false" y="0.909090909090909" fps="24" anim="tails down" name="singDOWN"/>
+</character>
