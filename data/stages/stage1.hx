@@ -2,6 +2,11 @@ var offX:Float = -1000/2;
 var offY:Float = -500/2;
 
 function create(){
+    var cave = new FlxSprite(offX + 711, offY + 25);
+	cave.loadGraphic(Paths.image("stages/stage1/cave"));	
+	cave.scrollFactor.set(0.8, 0.75);
+    insert(members.indexOf(gf), cave);
+
     var graphic = Paths.image("stages/stage1/ground");
 	
 	var ground = new FlxSprite(offX, offY + 710);
@@ -32,5 +37,6 @@ function create(){
 	add(groundFiller);
 	add(lground);
 	add(rground);
+    add(cave);
 	add(ground);
 }
