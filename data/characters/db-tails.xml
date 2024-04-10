@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character scale="1" x="-210" color="#FFFFFF" y="-600" sprite="chapter1/boppers/tails bg" icons="chapter1/tails">
+	<anim anim="tails bg normal idle" name="idle"/>
+	<anim anim="tails bg crazy" name="idle-crazy"/>
+	<anim anim="tails bg shoot" name="shoot"/>
+</character>

@@ -1,7 +1,7 @@
 {
 	"beatsPerMeasure": 4,
-	"opponentModeAllowed": true,
-	"coopAllowed": true,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
 	"stepsPerBeat": 4,
 	"bpm": 140,
 	"difficulties": [
@@ -9,7 +9,6 @@
 	],
 	"needsVoices": true,
 	"parsedColor": -13548,
-	"displayName": "Display Name",
 	"icon": "chapter1/tails",
 	"name": "talentless-fox",
 	"color": "#FFCB14"

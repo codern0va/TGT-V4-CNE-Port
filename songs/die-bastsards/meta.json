@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 180,
+	"difficulties": [
+		"normal"
+	],
+	"needsVoices": true,
+	"parsedColor": -13355980,
+	"displayName": "",
+	"icon": "chapter1/shadow",
+	"name": "die-bastsards",
+	"color": "#343434"
+}
