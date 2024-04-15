@@ -1,7 +1,7 @@
 <!DOCTYPE codename-engine-character>
-<character scale="1" x="-410" color="#A5004D" y="-730" icons="gf" sprite="chapter1/GF_DB_assets">
-	<anim y="14" anim="reaction" name="reaction"/>
-	<anim y="5" anim="sad" name="sad"/>
-	<anim indices="30,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14" anim="idle" name="danceLeft"/>
-	<anim indices="15,16,17,18,19,20,21,22,23,24,25,26,27,28,29" anim="idle" name="danceRight"/>
+<character x="-410" icon="gf" y="-730" isGF="false" icons="gf" color="#A5004D" isPlayer="false" sprite="chapter1/GF_DB_assets">
+	<anim x="0" loop="false" y="14" fps="24" anim="reaction" name="reaction"/>
+	<anim x="0" loop="false" y="5" fps="24" anim="sad" name="sad"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="idle" indices="30,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14" name="danceLeft"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="idle" indices="15,16,17,18,19,20,21,22,23,24,25,26,27,28,29" name="danceRight"/>
 </character>

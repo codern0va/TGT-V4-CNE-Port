@@ -52,4 +52,11 @@ function create(){
 	knux.scrollFactor.set(0.95, 0.95);
 	insert(members.indexOf(gf), knux);
 	add(knux);
+
+	function onPlayerHit(e) {
+		if (e.noteType == "Bullet"){
+			tails.playAnim("knuckles bg shoot", true);
+			knux.playAnim("knuckles bg shoot", true);
+		}
+	}
 }

@@ -1,16 +1,16 @@
 <!DOCTYPE codename-engine-character>
-<character x="-275" camx="80" y="-550" scale="1" color="#31B0D1" flipX="true" sprite="chapter1/BF_DB_assets" icons="bf" isPlayer="true">
-	<anim indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13" anim="boyfriend" name="idle"/>
-	<anim x="-4" indices="14,15,16,17" anim="boyfriend" name="singLEFT"/>
-	<anim x="8" indices="18,19,20,21" anim="boyfriend" name="singDOWN"/>
-	<anim indices="22,23,24,25" anim="boyfriend" name="singUP"/>
-	<anim x="-7" indices="26,27,28,29" anim="boyfriend" name="singRIGHT"/>
-	<anim x="1" indices="30,31,32,33" anim="boyfriend" name="singLEFTmiss"/>
-	<anim x="9" y="-7" anim="boyfriend" indices="34,35,36,37" name="singDOWNmiss"/>
-	<anim indices="38,39,40,41" y="-1" anim="boyfriend" name="singUPmiss"/>
-	<anim x="-5" indices="42,43,44,45" anim="boyfriend" name="singRIGHTmiss"/>
-	<anim indices="46,47,48,49,50,51" anim="boyfriend" name="hey"/>
-	<anim indices="52,53,54,55,56,57,58,59" anim="boyfriend" name="dodge"/>
-	<anim indices="60,61,62,63,64,65,66,67,68" anim="boyfriend" name="shot"/>
-	<anim indices="69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101" anim="boyfriend" name="fuckingdies"/>
+<character x="-275" icon="bf" camx="-50" y="-550" isGF="false" icons="bf" color="#31B0D1" flipX="true" isPlayer="true" sprite="chapter1/BF_DB_assets">
+	<anim x="0" loop="false" y="0" fps="24" anim="boyfriend" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13" name="idle"/>
+	<anim x="-7" loop="false" y="0" fps="24" anim="boyfriend" indices="14,15,16,17" name="singLEFT"/>
+	<anim x="8" loop="false" y="0" fps="24" anim="boyfriend" indices="18,19,20,21" name="singDOWN"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="boyfriend" indices="22,23,24,25" name="singUP"/>
+	<anim x="-4" loop="false" y="0" fps="24" anim="boyfriend" indices="26,27,28,29" name="singRIGHT"/>
+	<anim x="-5" loop="false" y="0" fps="24" anim="boyfriend" indices="30,31,32,33" name="singLEFTmiss"/>
+	<anim x="9" loop="false" y="-7" fps="24" anim="boyfriend" indices="34,35,36,37" name="singDOWNmiss"/>
+	<anim x="0" loop="false" y="-1" fps="24" anim="boyfriend" indices="38,39,40,41" name="singUPmiss"/>
+	<anim x="1" loop="false" y="0" fps="24" anim="boyfriend" indices="42,43,44,45" name="singRIGHTmiss"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="boyfriend" indices="46,47,48,49,50,51" name="hey"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="boyfriend" indices="52,53,54,55,56,57,58,59" name="dodge"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="boyfriend" indices="60,61,62,63,64,65,66,67,68" name="shot"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="boyfriend" indices="69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101" name="fuckingdies"/>
 </character>

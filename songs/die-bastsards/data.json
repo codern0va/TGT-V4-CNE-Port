@@ -1,0 +1,9 @@
+{
+    "borderColor": "#FFFFFF",
+    "songName": "die-bastsards",
+    "songSize": 46,
+    "ease1": "smootherstepin",
+    "ease2": "smoothstepout",
+    "duration": 2,
+    "delay": 4
+}
